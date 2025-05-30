@@ -57,7 +57,7 @@ src/
 
 1. **Clone the repo:**
 
-git clone https://github.com/yourusername/redux-shopping-cart.git
+git clone https://github.com/EgemenShn01/redux-shopping-cart.git
 cd redux-shopping-cart
 
 2. **Install dependencies:**
